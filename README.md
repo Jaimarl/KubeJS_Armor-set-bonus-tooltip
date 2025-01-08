@@ -1,1 +1,1 @@
-# -KubeJS-Armor-set-bonus-tooltip
+# [KubeJS] Armor set bonus tooltip

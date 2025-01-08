@@ -1,0 +1,16 @@
+{
+    "set.summary": "§8Зажмите [§7Shift§8] для информации о комплекте",
+    "set.part": "Часть комплекта брони",
+    "set.bonus": "Бонус комплекта",
+    "set.bonus.active": "Активен",
+    "set.bonus.inactive": "Неактивен",
+    "set.helmet": "Шлем",
+    "set.chestplate": "Нагрудник",
+    "set.leggings": "Поножи",
+    "set.boots": "Ботинки",
+
+    "comment_set_assassin": "АССАССИН",
+        "set.assassin.name": "Ассассин",
+        "set.assassin.1": "+25% Скорость",
+        "set.assassin.2": "Вы можете подниматься на 1 блок без прыжка"
+}
